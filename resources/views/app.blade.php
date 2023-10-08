@@ -31,7 +31,7 @@
                             <ul class="nav-links">
                                 <!-- NAVEGAÇÃO MENUS -->
                                 <div class="menu">
-                                    <li><a href="/">Visão Geral</a></li>
+                                    <li><a href="{{ route('dashboard') }}">Dashboard</a></li>
                                     <li><a href="/">Caixa TEM</a></li>
                                     <li><a href="/">Gerenciador Financeiro</a></li>
                                     <li><a href="/">Internet Banking</a></li>
